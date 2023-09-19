@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chaidar-aria
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Mobile Development 
 - 🌱 I’m currently learning State University of Surabaya
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
